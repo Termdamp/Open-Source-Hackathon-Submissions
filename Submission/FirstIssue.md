@@ -25,6 +25,7 @@
 <!-- Explain what your project does, what problem it solves, and why it matters -->
 
 **Tech Stack Used:** 
+
 **Frontend**
 - React 18 + Vite
 - Tailwind CSS + inline styles
