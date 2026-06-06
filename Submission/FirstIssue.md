@@ -24,7 +24,8 @@
 **Project Description:** FirstIssue is an open-source discovery platform that helps developers find their first GitHub contribution. It aggregates beginner-friendly issues across GitHub, lets you filter by language and difficulty, tracks your contribution journey, and rewards progress with badges — so you can stop searching and start contributing.  
 <!-- Explain what your project does, what problem it solves, and why it matters -->
 
-**Tech Stack Used:**
+**Tech Stack Used:**          
+
 **Frontend**
 -React 18 + Vite
 -Tailwind CSS + inline styles
