@@ -24,27 +24,24 @@
 **Project Description:** FirstIssue is an open-source discovery platform that helps developers find their first GitHub contribution. It aggregates beginner-friendly issues across GitHub, lets you filter by language and difficulty, tracks your contribution journey, and rewards progress with badges — so you can stop searching and start contributing.  
 <!-- Explain what your project does, what problem it solves, and why it matters -->
 
-**Tech Stack Used:**          
-
-**Frontend**
--React 18 + Vite
--Tailwind CSS + inline styles
--DiceBear API (avatar generation)
+**Tech Stack Used:** **Frontend** - React 18 + Vite
+- Tailwind CSS + inline styles
+- DiceBear API (avatar generation)
   
 **Backend**
--Node.js + Express
--MongoDB Atlas + Mongoose
--Passport.js (GitHub OAuth)
--JWT (jsonwebtoken)
--express-session
+- Node.js + Express
+- MongoDB Atlas + Mongoose
+- Passport.js (GitHub OAuth)
+- JWT (jsonwebtoken)
+- express-session
 
 **Data & APIs**
--GitHub REST API v3 (issue aggregation)
--In-memory cache (5 min TTL)
+- GitHub REST API v3 (issue aggregation)
+- In-memory cache (5 min TTL)
 
 **Deployment**
--Vercel (frontend)
--Render (backend) 
+- Vercel (frontend)
+- Render (backend) 
 <!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
 
 **GitHub Repository Link:** https://github.com/Termdamp/FirstIssue
