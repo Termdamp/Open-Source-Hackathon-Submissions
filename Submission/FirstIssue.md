@@ -2,23 +2,23 @@
 
 ## Participant Details
 
-**Full Name:**YASH RAJ  
+**Full Name:** YASH RAJ  
 <!-- Write your full name -->
 
-**GitHub Username:**Termdamp  
+**GitHub Username:** Termdamp  
 <!-- Write your GitHub username -->
 
-**Team Name:**POWER_RANGER  
+**Team Name:** POWER_RANGER  
 <!-- Write your team name -->
 
-**College/University:**Indian Institute of Technology Guwahati 
+**College/University:** Indian Institute of Technology Guwahati 
 <!-- Write your college/university name -->
 
 ---
 
 ## Project Details
 
-**Project Title:**FirstIssue  
+**Project Title:** FirstIssue  
 <!-- Write your project/idea title -->
 
 **Project Description:** FirstIssue is an open-source discovery platform that helps developers find their first GitHub contribution. It aggregates beginner-friendly issues across GitHub, lets you filter by language and difficulty, tracks your contribution journey, and rewards progress with badges — so you can stop searching and start contributing.  
@@ -78,7 +78,7 @@ Please complete these before submitting:
 - [✅] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [Not use X😐] I have followed Memori Labs on X  
+- [Not using X😐] I have followed Memori Labs on X  
   https://x.com/memorilab
 
 - [✅] I have checked Memori Labs social links  
